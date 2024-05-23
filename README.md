@@ -1,6 +1,6 @@
 ## LTGNN-PyTorch
 
-This is the Pytorch implementation for our TheWebConf'24 paper "Linear-Time Graph Neural Networks for Scalable Recommendations". Please find our paper in
+This is the Pytorch implementation for our TheWebConf'24 paper "**Linear-Time Graph Neural Networks for Scalable Recommendations**". Please find our paper in
 ACM Digital Library (https://dl.acm.org/doi/10.1145/3589334.3645486) or arXiv (https://arxiv.org/abs/2402.13973).
 
 This codebase was adapted from [LightGCN-pytorch](https://github.com/gusye1234/LightGCN-PyTorch). 
