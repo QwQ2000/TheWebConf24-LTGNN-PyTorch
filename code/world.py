@@ -16,7 +16,9 @@ import multiprocessing
 os.environ['KMP_DUPLICATE_LIB_OK'] = 'True'
 args = parse_args()
 
-ROOT_PATH = '/home/Lemon/qwq/LazyRec/'
+# *** Update with your local folder path!!!***
+ROOT_PATH = '/home/qwq2000/TheWebConf24-LTGNN-PyTorch/'
+# ********************************************
 CODE_PATH = join(ROOT_PATH, 'code')
 DATA_PATH = join(ROOT_PATH, 'data')
 BOARD_PATH = join(CODE_PATH, 'runs')
