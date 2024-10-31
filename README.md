@@ -3,6 +3,8 @@
 This is the Pytorch implementation for our TheWebConf'24 paper "**Linear-Time Graph Neural Networks for Scalable Recommendations**". Please find our paper in
 ACM Digital Library (https://dl.acm.org/doi/10.1145/3589334.3645486) or arXiv (https://arxiv.org/abs/2402.13973).
 
+The [Amazon-Large](https://drive.google.com/file/d/13pYTb6FqdfaDy3WC-Ax-ruK1q9_d0Qub/view?usp=drive_link) dataset is available on Google Drive. If you prefer to build it yourself, please refer to Section 4.1 of our paper for instructions on constructing it directly from the [Amazon Review Data](https://cseweb.ucsd.edu/~jmcauley/datasets/amazon_v2/).
+
 This codebase was adapted from [LightGCN-pytorch](https://github.com/gusye1234/LightGCN-PyTorch). 
 
 
