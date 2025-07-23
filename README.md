@@ -8,7 +8,7 @@ The [Amazon-Large](https://drive.google.com/file/d/13pYTb6FqdfaDy3WC-Ax-ruK1q9_d
 This codebase was adapted from [LightGCN-pytorch](https://github.com/gusye1234/LightGCN-PyTorch). 
 
 
-## Enviroment Requirement
+## Environment Requirement
 
 `pip install -r requirements.txt`
 
