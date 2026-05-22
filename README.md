@@ -5,10 +5,9 @@ ACM Digital Library (https://dl.acm.org/doi/10.1145/3589334.3645486) or arXiv (h
 
 The [Amazon-Large](https://drive.google.com/file/d/13pYTb6FqdfaDy3WC-Ax-ruK1q9_d0Qub/view?usp=drive_link) dataset is available on Google Drive. If you prefer to build it yourself, please refer to Section 4.1 of our paper for instructions on constructing it directly from the [Amazon Review Data](https://cseweb.ucsd.edu/~jmcauley/datasets/amazon_v2/).
 
-For additional technical details, including the reduced neighbor sampling variance and the convergence of the forward process to PPNP, please refer to my [master's thesis](https://theses.lib.polyu.edu.hk/handle/200/13533).
-
 This codebase was adapted from [LightGCN-pytorch](https://github.com/gusye1234/LightGCN-PyTorch). 
 
+For additional technical details and theoretical analysis, including the reduced neighbor sampling variance and the convergence of the forward process to PPNP, please refer to my [master's thesis](https://theses.lib.polyu.edu.hk/handle/200/13533).
 
 ## Environment Requirement
 
